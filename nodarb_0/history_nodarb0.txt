@@ -1,0 +1,55 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git-clone https://github.com/coolymlg/RTR108
+    4  git clone https://github.com/coolymlg/RTR108
+    5  ls
+    6  cd RTR108/
+    7  ls
+    8  nano re
+    9  nano README.md 
+   10  nano git-upload
+   11  ./git-upload
+   12  chmod 700 git-upload 
+   13  ./git-upload
+   14  ./git-upload 30-01-2020-12-53
+   15  ls -l
+   16  mkdir nodarb_1
+   17  rm nodarb_1/
+   18  ls 
+   19* rm nodarb_0
+   20  rm -fr nodarb_1
+   21  ls
+   22  mkdir nodarb_0
+   23  cs nodarb_0/
+   24  python
+   25  ipython
+   26  cd nodarb_0/
+   27  nano python_tests.py
+   28  python python_tests.py
+   29  nano python_tests.py
+   30  python python_tests.py
+   31  nano python_tests.py
+   32  python python_tests.py
+   33  nano python_tests.py
+   34  python --version
+   35  cp python_tests.py python_tests_auto_exe.py 
+   36  nano python_tests_auto_exe.py 
+   37  ls -l /usr/bin/python
+   38  nano python_tests_auto_exe.py 
+   39  chmod 744 python_tests_auto_exe.py 
+   40  mv python_tests_auto_exe.py python_tests_auto_exe
+   41  cat python_tests_auto_exe 
+   42  idle &
+   43  ls
+   44  ls -l
+   45  ls -la
+   46  cd ..
+   47  cd .
+   48  cd nodarb_0/
+   49  cd .
+   50  cat diary_30012020_13_46.py 
+   51  python -m http.server 8000
+   52  python -m html.server 8000
+   53  python -m index.html.server 8000
+   54  python -m http.server 8000
+   55  history > history_nodarb0.txt
