@@ -1,0 +1,62 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/coolymlg/RTR108
+    4  ls
+    5  cd RTR108/
+    6  ls
+    7  mkdir nodarb_1
+    8  cd nodarb_1
+    9  python -m http.server 8000
+   10  cd
+   11  python -m http.server 8000
+   12  cd RTR108/
+   13  python -m http.server 8000
+   14  ls
+   15  python -m http.server 8000
+   16* 
+   17  ps -aux | grep 8000
+   18  kill
+   19  ps -aux | grep 8000
+   20  --version
+   21  python -m http.server 8000 &
+   22  python -m http.server 8000 
+   23* 
+   24  python -m http.server 8000 &
+   25  kill
+   26  python -m http.server 8000 &
+   27  kill
+   28  python -m http.server 8000 &
+   29  ps -aux | grep 8000
+   30  kill -9 2250
+   31  kill -9 2338
+   32  --version
+   33  nano index.html
+   34  python -m http.server 8000 
+   35  nano index.html
+   36  python -m http.server 8000 
+   37  nano index.html
+   38  python -m http.server 8000 
+   39  if commit; if config;  kill
+   40  if commit
+   41  if config
+   42  ifconfig
+   43  python -m http.server 8000 
+   44  nano index.html
+   45  python -m http.server 8000 
+   46  ls -lt
+   47  ls -lt ../../Downloads
+   48  ls -lt -/Downloads
+   49  ls -lt ../Downloads
+   50  unzip ../Downloads/ngrok-stable-linux-amd64.zip
+   51  ls
+   52  ls- l
+   53  python -m http.server 8000 
+   54  python -m http.server 8000 &
+   55  ngrok
+   56  ./ngrok http 8000
+   57  ls
+   58  rm ngrok 
+   59  ls
+   60  ls nodarb_1
+   61  cd nodarb_1
+   62  history>history_1nodarb
